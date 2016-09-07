@@ -1,0 +1,5 @@
+# y, xstart, xend,  rotation,    color, label,     va,      bed
+ .15,    .1,   .45,       0,  magenta,  Achi,   bottom, Achi.bed
+ .15,    .55,   .9,     0,   orange,  Slyc,  top, Slyc.bed
+# edges
+e, 0, 1, Achi.Slyc.anchors.simple
